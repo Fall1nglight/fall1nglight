@@ -106,9 +106,7 @@
 
 ###
 
-<div align="center">
-  <p align="left">If you like my profile and enjoy my work, feel free to support me.<br>Thank you for your kindness.</p>
-  <p align="left"><a href="https://www.buymeacoffee.com/fall1nglight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fall1nglight" /></a></p>
-</div>
+<p align="center">If you like my profile and enjoy my work, feel free to support me.<br>Thank you for your kindness.</p>
+<p align="center"><a href="https://www.buymeacoffee.com/fall1nglight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fall1nglight" /></a></p>
 
 ###
