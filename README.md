@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Szabolcs Kerülő from Hungary<br><br>- 🎓 I am a first-year student at Óbuda University.<br>- 📖 I am currently learning C#.<br>- 💻 In my free time, I enjoy working with frameworks such as Node.js, Express, Vue.js, and MongoDB, exploring both front-end and back-end development.</p>
+<p align="left">I'm Szabolcs Kerülő from Hungary.<br><br>- 🎓 I am a first-year student at Óbuda University.<br>- 📖 I am currently learning C#.<br>- 💻 In my free time, I enjoy working with frameworks such as Node.js, Express, Vue.js, and MongoDB, exploring both front-end and back-end development.</p>
 
 ###
 
@@ -106,7 +106,7 @@
 
 ###
 
-<p align="left">☕ If you like my profile and enjoy my work, feel free to support me with the price of a coffee.</p>
+<p align="left">If you like my profile and enjoy my work, feel free to support me.<br>Thank you for your kindness.</p>
 <p align="left"><a href="https://www.buymeacoffee.com/fall1nglight"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fall1nglight" /></a></p>
 
 ###
