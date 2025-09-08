@@ -13,7 +13,7 @@ I take pride in creating **clean**, **well-structured solutions** and value qual
 - 🎓 **Education**: 2nd year, Computer Science at Óbudai University.
 - 💻 **Programming Languages**: C#, JavaScript, Java, Python, PHP.
 - 💡 **Ongoing Studies**: Working on academic projects which include important algorithms and data structures.
-- 🎯 **Future Plans**: Exploring advanced topics in software engineering and web development.
+- 🎯 **Future Plans**: Continuing to grow as a developer by mastering full-stack development and gaining hands-on experience with the associated technologies.
 
 ---
 
