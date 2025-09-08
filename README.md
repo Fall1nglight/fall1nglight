@@ -87,5 +87,5 @@ I take pride in creating **clean**, **well-structured solutions** and value qual
 
 <h3 align="left">📫 Contacts</h3>
 
-- 📧 Email: keruloszabolcs1@gmail.com
+- 📧 Email: kerulo.szabolcs.dev@gmail.com
 - 🧑‍💼 LinkedIn: [Szabolcs Kerülő](https://www.linkedin.com/in/szabolcs-kerülő-b1a871166)
