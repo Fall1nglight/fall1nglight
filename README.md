@@ -8,7 +8,7 @@ I take pride in creating **clean**, **well-structured solutions** and value qual
 
 ---
 
-<h3 align="left">📫 Contacts</h3>
+### 📫 Contacts
 
 - 📧 Email: kerulo.szabolcs.dev@gmail.com
 - 🧑‍💼 LinkedIn: [Szabolcs Kerülő](https://www.linkedin.com/in/szabolcs-kerülő-b1a871166)
@@ -79,6 +79,8 @@ I take pride in creating **clean**, **well-structured solutions** and value qual
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
+ - .NET Core, NuGet, Node.js, npm, Express, Electron, Discord.js, Mocha, Babel, ESLint, jQuery, Sass, Selenium, Tailwind CSS, HTML5, CSS3, Bootstrap, MySQL, MongoDB, Arduino, Insomnia, JetBrains IDEs, Visual Studio, Visual Studio Code
+
 ---
 
 ### 👩‍💻  Additional Information About Me
@@ -87,7 +89,5 @@ I take pride in creating **clean**, **well-structured solutions** and value qual
 - 💻 **Programming Languages**: C#, JavaScript, Java, Python, PHP.
 - 💡 **Ongoing Studies**: Working on academic projects which include important algorithms and data structures.
 - 🎯 **Future Plans**: Continuing to grow as a developer by mastering full-stack development and gaining hands-on experience with the associated technologies.
-
-  - .NET Core, NuGet, Node.js, npm, Express, Electron, Discord.js, Mocha, Babel, ESLint, jQuery, Sass, Selenium, Tailwind CSS, HTML5, CSS3, Bootstrap, MySQL, MongoDB, Arduino, Insomnia, JetBrains IDEs, Visual Studio, Visual Studio Code
 
 
