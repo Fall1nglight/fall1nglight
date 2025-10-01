@@ -2,9 +2,11 @@
 
 Welcome to my GitHub profile!
 
-I’m Szabolcs Kerülő, **Computer Science** student at **Óbuda University**, currently in my third semester. I’m passionate about programming and spend much of my free time building personal projects to sharpen my skills. My main focus is web development, where I enjoy working on both the frontend and backend.
+I’m Szabolcs Kerülő, **Computer Science** student at **Óbuda University**, currently in my third semester. A passionate programmer who spends much of his free time building personal projects to sharpen his skills.
 
-I take pride in creating **clean**, **well-structured solutions** and value quality in everything I do. I’m always eager to learn new technologies, challenge myself with fresh ideas, and continuously improve my craft.
+My main focus is web development, where I enjoy working on both the frontend and backend.
+I take pride in creating **clean**, **well-structured solutions** and value quality in everything I do. 
+Continuously driven by a passion for learning new technologies.
 
 ---
 
